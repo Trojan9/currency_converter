@@ -1,4 +1,4 @@
-# moneyconverter
+# Currency converter
 
 A new Flutter application.
 
